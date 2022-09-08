@@ -1,38 +1,61 @@
-
+import json
+import mlflow
+import pickle
+from fileinput import filename
 import io
-import sys
-
-import dvc.api as dvc
-sys.path.append('../')
+import dvc.api
 import pandas as pd
-#from src.rotating_logs import get_rotating_log
+from get_log import get_logger
+from time import gmtime, strftime
 
+logger = get_logger("FileHandler")
 
-#logger = get_rotating_log(filename='data_loader.log', logger_name='DataLoaderLogger')
+#filehandler class
+class FileHandler():
 
-class File_handler:
-    """This class is a wrapper for getting DVC versioned datasets and normal csvs from file"""
-   # def dvc_get_data(path: str, version: str, repo: str = '../') -> pd.DataFrame:
-    """Fetch DVC versioned files. You need to know the path to the file, starting from the root of the repo.
-        """
-    #read file csv
-    def read_file(self, path, low_memory=True):
-            #csv file
-        try:
-            df = pd.read_csv(path)
-            #logger.info(f"Pandas: CSV read from: {path}")
-            return df
-        except FileNotFoundError:
-                print(("File error"))
-             #logger.exception(f"Pandas failed to read the csv at: {path}")
-    #read data dvc
-    def read_dvc(self, path, repo, rev, low_memory=True):
-        try:
-            file =dvc.read(path, repo=repo, rev=rev)
-            #logger.info(f"Pandas: CSV read from: {path}")
-            df=pd.read_csv(io.String(file), low_memory=low_memory)
-            return df
-        except Exception as e:
-            print("Error occur", e)
-            #logger.exception(f"Pandas failed to read the csv at: {path}")
-              
+  def __init__(self):
+    pass
+
+  #dvc Fetch DVC versioned files from the root of the repo.
+  @staticmethod
+  def dvc_get_data(path: str, version: str, repo: str = '../'):
+    try:
+        content = dvc.api.read(path=path,
+                                    repo=repo,
+                                    rev=version)
+        df = pd.read_csv(io.StringIO(content), sep=",")
+        logger.info(f"DVC: CSV file read with path: {path} | version: {version} | from: {repo}")
+        return df
+    except:
+        logger.exception("DVC data getter raised an exception")
+  #save the csv file with index
+  def save_csv(self, df, csv_path, index=False):
+    try:
+      df.to_csv(csv_path, index=index)
+      logger.info("The Dataset file saved as csv")
+
+    except Exception:
+      logger.exception("The file is not saved: ERROR")
+  #read csv file 
+  def read_csv(self, csv_path):
+    try:
+      df = pd.read_csv(csv_path)
+      my_logger.debug("Read the Dataset as csv")
+      return df
+    except FileNotFoundError:
+      my_logger.exception("The Dataset file is not found")
+  #save the model
+  def save_model(self, model, model_name):
+    try:
+      file_name = model_name+"_model "+ strftime("%Y-%m-%d %H-%M-%S", gmtime())
+      with open(f'../models/{file_name}.pkl', 'wb') as my_model:
+        pickle.dump(model, my_model) 
+
+      mlflow.log_artifact(f"../models/{file_name}.pkl")
+      my_logger.info("Model is successfully saved !")
+
+    except Exception:
+      my_logger.exception("process of saving model failed")
+
+    
+                
