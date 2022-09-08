@@ -1,0 +1,81 @@
+2022-09-08 16:59:24,264 : INFO : file_log_report : Colums with missing values: ['floats']
+2022-09-08 16:59:24,264 : INFO : file_log_report : Colums with missing values: ['floats']
+2022-09-08 16:59:24,274 : INFO : file_log_report : Converted to numbers
+2022-09-08 16:59:24,274 : INFO : file_log_report : Converted to numbers
+2022-09-08 16:59:24,274 : INFO : file_log_report : Converted to numbers
+2022-09-08 16:59:24,275 : INFO : file_log_report : Showing coloumn names
+2022-09-08 16:59:24,275 : INFO : file_log_report : Showing coloumn names
+2022-09-08 16:59:24,275 : INFO : file_log_report : Showing coloumn names
+2022-09-08 16:59:24,275 : INFO : file_log_report : Showing coloumn names
+2022-09-08 16:59:24,283 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-08 16:59:24,283 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-08 16:59:24,283 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-08 16:59:24,283 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-08 16:59:24,283 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-08 16:59:24,289 : INFO : file_log_report : Showing data information
+2022-09-08 16:59:24,289 : INFO : file_log_report : Showing data information
+2022-09-08 16:59:24,289 : INFO : file_log_report : Showing data information
+2022-09-08 16:59:24,289 : INFO : file_log_report : Showing data information
+2022-09-08 16:59:24,289 : INFO : file_log_report : Showing data information
+2022-09-08 16:59:24,289 : INFO : file_log_report : Showing data information
+2022-09-08 16:59:24,365 : INFO : file_log_report : Showing datatypes
+2022-09-08 16:59:24,365 : INFO : file_log_report : Showing datatypes
+2022-09-08 16:59:24,365 : INFO : file_log_report : Showing datatypes
+2022-09-08 16:59:24,365 : INFO : file_log_report : Showing datatypes
+2022-09-08 16:59:24,365 : INFO : file_log_report : Showing datatypes
+2022-09-08 16:59:24,365 : INFO : file_log_report : Showing datatypes
+2022-09-08 16:59:24,365 : INFO : file_log_report : Showing datatypes
+2022-09-08 16:59:49,544 : INFO : file_log_report : Colums with missing values: ['floats']
+2022-09-08 16:59:49,544 : INFO : file_log_report : Colums with missing values: ['floats']
+2022-09-08 16:59:49,548 : INFO : file_log_report : Converted to numbers
+2022-09-08 16:59:49,548 : INFO : file_log_report : Converted to numbers
+2022-09-08 16:59:49,548 : INFO : file_log_report : Converted to numbers
+2022-09-08 16:59:49,549 : INFO : file_log_report : Showing coloumn names
+2022-09-08 16:59:49,549 : INFO : file_log_report : Showing coloumn names
+2022-09-08 16:59:49,549 : INFO : file_log_report : Showing coloumn names
+2022-09-08 16:59:49,549 : INFO : file_log_report : Showing coloumn names
+2022-09-08 16:59:49,552 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-08 16:59:49,552 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-08 16:59:49,552 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-08 16:59:49,552 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-08 16:59:49,552 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-08 16:59:49,553 : INFO : file_log_report : Showing data information
+2022-09-08 16:59:49,553 : INFO : file_log_report : Showing data information
+2022-09-08 16:59:49,553 : INFO : file_log_report : Showing data information
+2022-09-08 16:59:49,553 : INFO : file_log_report : Showing data information
+2022-09-08 16:59:49,553 : INFO : file_log_report : Showing data information
+2022-09-08 16:59:49,553 : INFO : file_log_report : Showing data information
+2022-09-08 16:59:49,581 : INFO : file_log_report : Showing datatypes
+2022-09-08 16:59:49,581 : INFO : file_log_report : Showing datatypes
+2022-09-08 16:59:49,581 : INFO : file_log_report : Showing datatypes
+2022-09-08 16:59:49,581 : INFO : file_log_report : Showing datatypes
+2022-09-08 16:59:49,581 : INFO : file_log_report : Showing datatypes
+2022-09-08 16:59:49,581 : INFO : file_log_report : Showing datatypes
+2022-09-08 16:59:49,581 : INFO : file_log_report : Showing datatypes
+2022-09-08 17:03:25,024 : INFO : file_log_report : Colums with missing values: ['floats']
+2022-09-08 17:03:25,024 : INFO : file_log_report : Colums with missing values: ['floats']
+2022-09-08 17:03:25,028 : INFO : file_log_report : Converted to numbers
+2022-09-08 17:03:25,028 : INFO : file_log_report : Converted to numbers
+2022-09-08 17:03:25,028 : INFO : file_log_report : Converted to numbers
+2022-09-08 17:03:25,029 : INFO : file_log_report : Showing coloumn names
+2022-09-08 17:03:25,029 : INFO : file_log_report : Showing coloumn names
+2022-09-08 17:03:25,029 : INFO : file_log_report : Showing coloumn names
+2022-09-08 17:03:25,029 : INFO : file_log_report : Showing coloumn names
+2022-09-08 17:03:25,032 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-08 17:03:25,032 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-08 17:03:25,032 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-08 17:03:25,032 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-08 17:03:25,032 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-08 17:03:25,033 : INFO : file_log_report : Showing data information
+2022-09-08 17:03:25,033 : INFO : file_log_report : Showing data information
+2022-09-08 17:03:25,033 : INFO : file_log_report : Showing data information
+2022-09-08 17:03:25,033 : INFO : file_log_report : Showing data information
+2022-09-08 17:03:25,033 : INFO : file_log_report : Showing data information
+2022-09-08 17:03:25,033 : INFO : file_log_report : Showing data information
+2022-09-08 17:03:25,057 : INFO : file_log_report : Showing datatypes
+2022-09-08 17:03:25,057 : INFO : file_log_report : Showing datatypes
+2022-09-08 17:03:25,057 : INFO : file_log_report : Showing datatypes
+2022-09-08 17:03:25,057 : INFO : file_log_report : Showing datatypes
+2022-09-08 17:03:25,057 : INFO : file_log_report : Showing datatypes
+2022-09-08 17:03:25,057 : INFO : file_log_report : Showing datatypes
+2022-09-08 17:03:25,057 : INFO : file_log_report : Showing datatypes
