@@ -4,11 +4,11 @@ import numpy as np
 import sys
 import os
 sys.path.insert(0, '../scr')
-sys.path.insert(0, '../logs/')
+#sys.path.insert(0, '../logs/')
 sys.path.append(os.path.abspath(os.path.join('..')))
 from file_log_report import Application_Logger
 
-app_logger = Application_Logger("logs/data_preProcessing.log").get_app_logger()
+#app_logger = Application_Logger("../notebooks/logs/data_preProcessing.log").get_app_logger()
 
 
 class data_preProcessing_script:
@@ -16,7 +16,7 @@ class data_preProcessing_script:
     def __init__(self, df: pd.DataFrame) -> None:
         self.df = df
         self.logger = Application_Logger(
-            "logs/data_preProcessing.log").get_app_logger()
+            "../logs/data_preProcessing.log").get_app_logger()
 
     def drop_duplicates(self) -> pd.DataFrame:
         droped = self.df[self.df.duplicated()].index
