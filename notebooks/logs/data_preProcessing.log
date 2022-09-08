@@ -32,3 +32,45 @@
 2022-09-08 14:01:22,991 : INFO : file_log_report : Showing missing percentage
 2022-09-08 14:01:22,991 : INFO : file_log_report : Showing missing percentage
 2022-09-08 14:01:22,991 : INFO : file_log_report : Showing missing percentage
+2022-09-08 15:54:50,008 : INFO : file_log_report : Showing data information
+2022-09-08 15:54:50,008 : INFO : file_log_report : Showing data information
+2022-09-08 15:54:50,008 : INFO : file_log_report : Showing data information
+2022-09-08 15:54:51,254 : INFO : file_log_report : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-09-08 15:54:51,254 : INFO : file_log_report : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-09-08 15:54:51,254 : INFO : file_log_report : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-09-08 15:54:51,928 : INFO : file_log_report : Showing missing percentage
+2022-09-08 15:54:51,928 : INFO : file_log_report : Showing missing percentage
+2022-09-08 15:54:51,928 : INFO : file_log_report : Showing missing percentage
+2022-09-08 15:56:10,164 : INFO : file_log_report : Showing data information
+2022-09-08 15:56:10,164 : INFO : file_log_report : Showing data information
+2022-09-08 15:56:10,164 : INFO : file_log_report : Showing data information
+2022-09-08 15:56:10,775 : INFO : file_log_report : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-09-08 15:56:10,775 : INFO : file_log_report : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-09-08 15:56:10,775 : INFO : file_log_report : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-09-08 15:56:10,976 : INFO : file_log_report : Showing missing percentage
+2022-09-08 15:56:10,976 : INFO : file_log_report : Showing missing percentage
+2022-09-08 15:56:10,976 : INFO : file_log_report : Showing missing percentage
+2022-09-08 15:57:41,258 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-08 15:57:41,258 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-08 15:57:41,258 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-08 15:57:41,258 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-08 15:57:41,258 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-08 15:57:41,258 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-08 15:57:59,948 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-08 15:57:59,948 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-08 15:57:59,948 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-08 15:57:59,948 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-08 15:57:59,948 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-08 15:57:59,948 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-08 15:57:59,953 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-08 15:57:59,953 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-08 15:57:59,953 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-08 15:57:59,953 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-08 15:57:59,953 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-08 15:57:59,953 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-08 16:59:24,264 : INFO : file_log_report : Colums with missing values: ['floats']
+2022-09-08 16:59:24,274 : INFO : file_log_report : Converted to numbers
+2022-09-08 16:59:24,275 : INFO : file_log_report : Showing coloumn names
+2022-09-08 16:59:24,283 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-08 16:59:24,289 : INFO : file_log_report : Showing data information
+2022-09-08 16:59:24,365 : INFO : file_log_report : Showing datatypes
