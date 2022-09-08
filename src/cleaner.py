@@ -3,15 +3,15 @@ import pandas as pd
 import numpy as np
 from file_log_report import Application_Logger
 
-app_logger = Application_Logger("logs/data_preProcessing.log").get_app_logger()
+logger = Application_Logger("../logs/data_preProcessing.log").get_app_logger()
 
 
 class DataCleaner:
     def __init__(self, df: pd.DataFrame, deep=False) -> None:
         #Returns a DataCleaner Object with the passed DataFrame Data set as its own DataFrame
         
-        self.logger = App_Logger(
-            "../logs/data_cleaner.log").get_app_logger()
+        self.logger = Application_Logger(
+            "../logs/data_preProcessing.log").get_app_logger()
         if(deep):
             self.df = df.copy(deep=True)
         else:
