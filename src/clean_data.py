@@ -89,3 +89,4 @@ class data_preProcessing_script:
         missing_df['missing_percentage'] = missing_percentage
         self.logger.info(f"Showing missing percentage")
         return missing_df
+        
