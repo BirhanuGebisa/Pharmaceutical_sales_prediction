@@ -68,7 +68,7 @@ hydra-core==1.2.0
 idna==3.3
 importlib-resources==5.9.0
 ipykernel==6.15.2
-ipython==8.5.0
+#ipython==8.5.0
 jedi==0.17.2
 jupyter-core==4.11.1
 jupyter_client==7.3.5
@@ -104,9 +104,9 @@ Pygments==2.13.0
 pygtrie==2.5.0
 pyOpenSSL==22.0.0
 pyparsing==3.0.9
-python-dateutil==2.8.2
-python-jsonrpc-server==0.4.0
-python-language-server==0.36.2
+#python-dateutil==2.8.2
+#python-jsonrpc-server==0.4.0
+#python-language-server==0.36.2
 pytz==2022.2.1
 PyYAML==6.0
 pyzmq==23.2.1
