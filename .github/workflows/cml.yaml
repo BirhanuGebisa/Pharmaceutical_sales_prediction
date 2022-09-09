@@ -1,0 +1,40 @@
+name: model-metrics
+on:
+  push:
+    branches:
+      - "main"
+  pull_request:
+    branches:
+      - "main"
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+      - uses: iterative/setup-cml@v1
+      - name: Install Dependencies
+        run: |     
+            python -m pip install --upgrade pip
+            pip install -r requirements.txt
+      - name: Fetch Dataset
+
+        env:
+          REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GDRIVE_TOKEN: ${{ secrets.GDRIVE_CREDENTIALS_DATA }}
+        run: |
+          mkdir -p .dvc/tmp
+          touch .dvc/tmp/gdrive-user-credentials.json
+          echo $GDRIVE_TOKEN > .dvc/tmp/gdrive-user-credentials.json
+          dvc pull -r dvc_remote 
+      - name: Generate Metrics Report
+          cml publish ./images/predictions_plot.png --md >> report.md
+          echo "# Predictions" > report.md
+                    
+          cml publish ./images/predictions_plot.png --md >> report.md
+
+          echo "# Feature Importance" > report.md
+                    
+          cml publish ./images/feature_importance.png --md >> report.md
+          
+          cml send-comment report.md
