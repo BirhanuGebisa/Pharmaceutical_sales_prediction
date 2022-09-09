@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sucess/10-academy/week-3/Pharmaceutical_sales_prediction/notebooks/mlruns/0/9617a9c3ef524a3cb4e3880509a9c58c/artifacts
+end_time: 1662754263652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 9617a9c3ef524a3cb4e3880509a9c58c
+run_uuid: 9617a9c3ef524a3cb4e3880509a9c58c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1662754263617
+status: 4
+tags: []
+user_id: sucess
