@@ -76,7 +76,7 @@ kombu==5.2.4
 matplotlib-inline==0.1.6
 multidict==6.0.2
 nanotime==0.5.2
-nest-asyncio==1.5.5
+#nest-asyncio==1.5.5
 #networkx==2.8.6
 oauth2client==4.1.3
 oauthclient==1.0.3
@@ -115,7 +115,7 @@ rich==12.5.1
 rsa==4.9
 ruamel.yaml==0.17.21
 ruamel.yaml.clib==0.2.6
-scmrepo==0.0.25
+#scmrepo==0.0.25
 shortuuid==1.0.9
 shtab==1.5.5
 six==1.16.0
