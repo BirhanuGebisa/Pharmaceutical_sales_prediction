@@ -22,28 +22,29 @@ Most of the fields are self-explanatory. The following are descriptions for thos
 - PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
 
 **Project Structure**
-images:
-images/ the folder where all snapshot for the project are stored.
-logs:
-logs/ the folder where script logs are stored.
-mlruns:
-mlruns/0/ the folder that contain auto generated mlflow runs.
-data:
-.dvc the folder where the dataset versioned csv files are stored.
-.dvc:
-.dvc/: the folder where dvc is configured for data version control.
-.github:
-.github/: the folder where github actions and CML workflow is integrated.
-.vscode:
-.vscode/: the folder where local path fix are stored.
-modles:
-09-009-2022-00-23-23-53.91%.pkl: the folder where model pickle files are stored.
-notebooks:
-scripts:
-a python script for cleaning pandas dataframes.
-tests:
-tests/: the folder containing unit tests for the scripts.
-requirements.txt: a text file lsiting the projet's dependancies.
-README.md: Markdown text with a brief explanation of the project and the repository structure.
-Dockerfile: build users can create an automated build that executes several command-line instructions in a container.
-Installation guide
+- images:
+ - images/ the folder where all snapshot for the project are stored.
+- logs:
+ - logs/ the folder where script logs are stored.
+- mlruns:
+ - mlruns/0/ the folder that contain auto generated mlflow runs.
+- data:
+ - .dvc the folder where the dataset versioned csv files are stored.
+- .dvc:
+- .dvc/: the folder where dvc is configured for data version control.
+- .github:
+ - .github/: the folder where github actions and CML workflow is integrated.
+- .vscode:
+ - .vscode/: the folder where local path fix are stored.
+- modles:
+ - 09-009-2022-00-23-23-53.91%.pkl: the folder where model pickle files are stored.
+- notebooks:
+   - notebook fiel used to preprocessing and modeling notebook
+- scripts:
+ - a python script for cleaning pandas dataframes.
+- tests:
+ - tests/: the folder containing unit tests for the scripts.
+- requirements.txt: a text file lsiting the projet's dependancies.
+- README.md: Markdown text with a brief explanation of the project and the repository structure.
+- Dockerfile: build users can create an automated build that executes several command-line instructions in a container.
+ ** Installation guide**
