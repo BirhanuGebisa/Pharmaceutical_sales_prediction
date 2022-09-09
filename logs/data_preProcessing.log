@@ -79,3 +79,976 @@
 2022-09-08 17:03:25,057 : INFO : file_log_report : Showing datatypes
 2022-09-08 17:03:25,057 : INFO : file_log_report : Showing datatypes
 2022-09-08 17:03:25,057 : INFO : file_log_report : Showing datatypes
+2022-09-09 09:57:54,458 : INFO : file_log_report : Showing data information
+2022-09-09 09:57:54,458 : INFO : file_log_report : Showing data information
+2022-09-09 09:57:54,619 : INFO : file_log_report : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-09-09 09:57:54,619 : INFO : file_log_report : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-09-09 09:57:54,774 : INFO : file_log_report : Showing missing percentage
+2022-09-09 09:57:54,774 : INFO : file_log_report : Showing missing percentage
+2022-09-09 09:57:56,131 : INFO : file_log_report : Showing missing percentage
+2022-09-09 09:57:56,131 : INFO : file_log_report : Showing missing percentage
+2022-09-09 09:57:56,131 : INFO : file_log_report : Showing missing percentage
+2022-09-09 09:57:56,131 : INFO : file_log_report : Showing missing percentage
+2022-09-09 09:57:56,131 : INFO : file_log_report : Showing missing percentage
+2022-09-09 09:57:56,131 : INFO : file_log_report : Showing missing percentage
+2022-09-09 09:57:57,721 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 09:57:57,721 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 09:57:57,721 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 09:57:57,721 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 09:57:57,721 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 09:57:57,721 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 09:57:57,801 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 09:57:57,801 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 09:57:57,801 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 09:57:57,801 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 09:57:57,801 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 09:57:57,801 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 09:57:57,804 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 09:57:57,804 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 09:57:57,804 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 09:57:57,804 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 09:57:57,804 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 09:57:57,804 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 09:58:26,153 : INFO : file_log_report : Showing data information
+2022-09-09 09:58:26,153 : INFO : file_log_report : Showing data information
+2022-09-09 09:58:26,153 : INFO : file_log_report : Showing data information
+2022-09-09 09:58:26,153 : INFO : file_log_report : Showing data information
+2022-09-09 09:58:26,153 : INFO : file_log_report : Showing data information
+2022-09-09 09:58:26,153 : INFO : file_log_report : Showing data information
+2022-09-09 09:58:26,153 : INFO : file_log_report : Showing data information
+2022-09-09 09:58:41,636 : INFO : file_log_report : Showing data information
+2022-09-09 09:58:41,636 : INFO : file_log_report : Showing data information
+2022-09-09 09:58:41,636 : INFO : file_log_report : Showing data information
+2022-09-09 09:58:41,636 : INFO : file_log_report : Showing data information
+2022-09-09 09:58:41,636 : INFO : file_log_report : Showing data information
+2022-09-09 09:58:41,636 : INFO : file_log_report : Showing data information
+2022-09-09 09:58:41,636 : INFO : file_log_report : Showing data information
+2022-09-09 09:58:41,636 : INFO : file_log_report : Showing data information
+2022-09-09 09:58:44,600 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 09:58:44,600 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 09:58:44,600 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 09:58:44,600 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 09:58:44,600 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 09:58:44,600 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 09:58:44,600 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 09:58:44,600 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 09:58:44,600 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 09:58:44,673 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 09:58:44,673 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 09:58:44,673 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 09:58:44,673 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 09:58:44,673 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 09:58:44,673 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 09:58:44,673 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 09:58:44,673 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 09:58:44,673 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 09:58:57,020 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 09:58:57,020 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 09:58:57,020 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 09:58:57,020 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 09:58:57,020 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 09:58:57,020 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 09:58:57,020 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 09:58:57,020 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 09:58:57,020 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 09:58:57,929 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 09:58:57,929 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 09:58:57,929 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 09:58:57,929 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 09:58:57,929 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 09:58:57,929 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 09:58:57,929 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 09:58:57,929 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 09:58:57,929 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 09:58:58,606 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 09:58:58,606 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 09:58:58,606 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 09:58:58,606 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 09:58:58,606 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 09:58:58,606 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 09:58:58,606 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 09:58:58,606 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 09:58:58,606 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 09:58:59,080 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 09:58:59,080 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 09:58:59,080 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 09:58:59,080 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 09:58:59,080 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 09:58:59,080 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 09:58:59,080 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 09:58:59,080 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 09:58:59,080 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:00:17,415 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:00:17,415 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:00:17,415 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:00:17,415 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:00:17,415 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:00:17,415 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:00:17,415 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:00:17,415 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:00:17,415 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:25:23,276 : ERROR : file_log_report : Failed to Add Season Column
+Traceback (most recent call last):
+  File "../src/clean_unlabel_data.py", line 185, in add_season
+    self.df[month_col].apply(self.get_season))
+  File "/home/sucess/anaconda3/lib/python3.7/site-packages/pandas/core/frame.py", line 3222, in insert
+    allow_duplicates=allow_duplicates)
+  File "/home/sucess/anaconda3/lib/python3.7/site-packages/pandas/core/internals.py", line 4338, in insert
+    raise ValueError('cannot insert {}, already exists'.format(item))
+ValueError: cannot insert Season, already exists
+2022-09-09 10:25:23,276 : ERROR : file_log_report : Failed to Add Season Column
+Traceback (most recent call last):
+  File "../src/clean_unlabel_data.py", line 185, in add_season
+    self.df[month_col].apply(self.get_season))
+  File "/home/sucess/anaconda3/lib/python3.7/site-packages/pandas/core/frame.py", line 3222, in insert
+    allow_duplicates=allow_duplicates)
+  File "/home/sucess/anaconda3/lib/python3.7/site-packages/pandas/core/internals.py", line 4338, in insert
+    raise ValueError('cannot insert {}, already exists'.format(item))
+ValueError: cannot insert Season, already exists
+2022-09-09 10:25:23,276 : ERROR : file_log_report : Failed to Add Season Column
+Traceback (most recent call last):
+  File "../src/clean_unlabel_data.py", line 185, in add_season
+    self.df[month_col].apply(self.get_season))
+  File "/home/sucess/anaconda3/lib/python3.7/site-packages/pandas/core/frame.py", line 3222, in insert
+    allow_duplicates=allow_duplicates)
+  File "/home/sucess/anaconda3/lib/python3.7/site-packages/pandas/core/internals.py", line 4338, in insert
+    raise ValueError('cannot insert {}, already exists'.format(item))
+ValueError: cannot insert Season, already exists
+2022-09-09 10:25:23,276 : ERROR : file_log_report : Failed to Add Season Column
+Traceback (most recent call last):
+  File "../src/clean_unlabel_data.py", line 185, in add_season
+    self.df[month_col].apply(self.get_season))
+  File "/home/sucess/anaconda3/lib/python3.7/site-packages/pandas/core/frame.py", line 3222, in insert
+    allow_duplicates=allow_duplicates)
+  File "/home/sucess/anaconda3/lib/python3.7/site-packages/pandas/core/internals.py", line 4338, in insert
+    raise ValueError('cannot insert {}, already exists'.format(item))
+ValueError: cannot insert Season, already exists
+2022-09-09 10:25:23,276 : ERROR : file_log_report : Failed to Add Season Column
+Traceback (most recent call last):
+  File "../src/clean_unlabel_data.py", line 185, in add_season
+    self.df[month_col].apply(self.get_season))
+  File "/home/sucess/anaconda3/lib/python3.7/site-packages/pandas/core/frame.py", line 3222, in insert
+    allow_duplicates=allow_duplicates)
+  File "/home/sucess/anaconda3/lib/python3.7/site-packages/pandas/core/internals.py", line 4338, in insert
+    raise ValueError('cannot insert {}, already exists'.format(item))
+ValueError: cannot insert Season, already exists
+2022-09-09 10:25:23,276 : ERROR : file_log_report : Failed to Add Season Column
+Traceback (most recent call last):
+  File "../src/clean_unlabel_data.py", line 185, in add_season
+    self.df[month_col].apply(self.get_season))
+  File "/home/sucess/anaconda3/lib/python3.7/site-packages/pandas/core/frame.py", line 3222, in insert
+    allow_duplicates=allow_duplicates)
+  File "/home/sucess/anaconda3/lib/python3.7/site-packages/pandas/core/internals.py", line 4338, in insert
+    raise ValueError('cannot insert {}, already exists'.format(item))
+ValueError: cannot insert Season, already exists
+2022-09-09 10:25:23,276 : ERROR : file_log_report : Failed to Add Season Column
+Traceback (most recent call last):
+  File "../src/clean_unlabel_data.py", line 185, in add_season
+    self.df[month_col].apply(self.get_season))
+  File "/home/sucess/anaconda3/lib/python3.7/site-packages/pandas/core/frame.py", line 3222, in insert
+    allow_duplicates=allow_duplicates)
+  File "/home/sucess/anaconda3/lib/python3.7/site-packages/pandas/core/internals.py", line 4338, in insert
+    raise ValueError('cannot insert {}, already exists'.format(item))
+ValueError: cannot insert Season, already exists
+2022-09-09 10:25:23,276 : ERROR : file_log_report : Failed to Add Season Column
+Traceback (most recent call last):
+  File "../src/clean_unlabel_data.py", line 185, in add_season
+    self.df[month_col].apply(self.get_season))
+  File "/home/sucess/anaconda3/lib/python3.7/site-packages/pandas/core/frame.py", line 3222, in insert
+    allow_duplicates=allow_duplicates)
+  File "/home/sucess/anaconda3/lib/python3.7/site-packages/pandas/core/internals.py", line 4338, in insert
+    raise ValueError('cannot insert {}, already exists'.format(item))
+ValueError: cannot insert Season, already exists
+2022-09-09 10:25:23,276 : ERROR : file_log_report : Failed to Add Season Column
+Traceback (most recent call last):
+  File "../src/clean_unlabel_data.py", line 185, in add_season
+    self.df[month_col].apply(self.get_season))
+  File "/home/sucess/anaconda3/lib/python3.7/site-packages/pandas/core/frame.py", line 3222, in insert
+    allow_duplicates=allow_duplicates)
+  File "/home/sucess/anaconda3/lib/python3.7/site-packages/pandas/core/internals.py", line 4338, in insert
+    raise ValueError('cannot insert {}, already exists'.format(item))
+ValueError: cannot insert Season, already exists
+2022-09-09 10:27:25,789 : INFO : file_log_report : Showing data information
+2022-09-09 10:27:25,789 : INFO : file_log_report : Showing data information
+2022-09-09 10:27:25,789 : INFO : file_log_report : Showing data information
+2022-09-09 10:27:25,789 : INFO : file_log_report : Showing data information
+2022-09-09 10:27:25,789 : INFO : file_log_report : Showing data information
+2022-09-09 10:27:25,789 : INFO : file_log_report : Showing data information
+2022-09-09 10:27:25,789 : INFO : file_log_report : Showing data information
+2022-09-09 10:27:25,789 : INFO : file_log_report : Showing data information
+2022-09-09 10:27:25,789 : INFO : file_log_report : Showing data information
+2022-09-09 10:27:25,789 : INFO : file_log_report : Showing data information
+2022-09-09 10:27:26,434 : INFO : file_log_report : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-09-09 10:27:26,434 : INFO : file_log_report : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-09-09 10:27:26,434 : INFO : file_log_report : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-09-09 10:27:26,434 : INFO : file_log_report : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-09-09 10:27:26,434 : INFO : file_log_report : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-09-09 10:27:26,434 : INFO : file_log_report : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-09-09 10:27:26,434 : INFO : file_log_report : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-09-09 10:27:26,434 : INFO : file_log_report : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-09-09 10:27:26,434 : INFO : file_log_report : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-09-09 10:27:26,434 : INFO : file_log_report : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-09-09 10:27:27,033 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:27,033 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:27,033 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:27,033 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:27,033 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:27,033 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:27,033 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:27,033 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:27,033 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:27,033 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:29,380 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:29,380 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:29,380 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:29,380 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:29,380 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:29,380 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:29,380 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:29,380 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:29,380 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:29,380 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:29,380 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:29,380 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:29,380 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:29,380 : INFO : file_log_report : Showing missing percentage
+2022-09-09 10:27:32,030 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:27:32,030 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:27:32,030 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:27:32,030 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:27:32,030 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:27:32,030 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:27:32,030 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:27:32,030 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:27:32,030 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:27:32,030 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:27:32,030 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:27:32,030 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:27:32,030 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:27:32,030 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:27:33,142 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 10:27:33,142 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 10:27:33,142 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 10:27:33,142 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 10:27:33,142 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 10:27:33,142 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 10:27:33,142 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 10:27:33,142 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 10:27:33,142 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 10:27:33,142 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 10:27:33,142 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 10:27:33,142 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 10:27:33,142 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 10:27:33,142 : INFO : file_log_report : Outlier for CompetitionDistance is fixed
+2022-09-09 10:27:33,147 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 10:27:33,147 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 10:27:33,147 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 10:27:33,147 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 10:27:33,147 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 10:27:33,147 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 10:27:33,147 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 10:27:33,147 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 10:27:33,147 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 10:27:33,147 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 10:27:33,147 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 10:27:33,147 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 10:27:33,147 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 10:27:33,147 : INFO : file_log_report : Outlier for CompetitionOpenSinceMonth is fixed
+2022-09-09 10:28:05,713 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:05,713 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:05,713 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:05,713 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:05,713 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:05,713 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:05,713 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:05,713 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:05,713 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:05,713 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:05,713 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:05,713 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:05,713 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:05,713 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:05,713 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:25,968 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:25,968 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:25,968 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:25,968 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:25,968 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:25,968 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:25,968 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:25,968 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:25,968 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:25,968 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:25,968 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:25,968 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:25,968 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:25,968 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:25,968 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:25,968 : INFO : file_log_report : Showing data information
+2022-09-09 10:28:29,136 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:28:29,136 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:28:29,136 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:28:29,136 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:28:29,136 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:28:29,136 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:28:29,136 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:28:29,136 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:28:29,136 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:28:29,136 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:28:29,136 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:28:29,136 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:28:29,136 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:28:29,136 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:28:29,136 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:28:29,136 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:28:29,136 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:28:29,192 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:28:29,192 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:28:29,192 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:28:29,192 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:28:29,192 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:28:29,192 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:28:29,192 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:28:29,192 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:28:29,192 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:28:29,192 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:28:29,192 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:28:29,192 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:28:29,192 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:28:29,192 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:28:29,192 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:28:29,192 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:28:29,192 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:28:30,485 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:28:30,485 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:28:30,485 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:28:30,485 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:28:30,485 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:28:30,485 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:28:30,485 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:28:30,485 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:28:30,485 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:28:30,485 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:28:30,485 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:28:30,485 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:28:30,485 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:28:30,485 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:28:30,485 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:28:30,485 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:28:30,485 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:28:31,308 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:28:31,308 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:28:31,308 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:28:31,308 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:28:31,308 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:28:31,308 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:28:31,308 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:28:31,308 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:28:31,308 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:28:31,308 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:28:31,308 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:28:31,308 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:28:31,308 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:28:31,308 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:28:31,308 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:28:31,308 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:28:31,308 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:28:31,985 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:28:31,985 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:28:31,985 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:28:31,985 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:28:31,985 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:28:31,985 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:28:31,985 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:28:31,985 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:28:31,985 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:28:31,985 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:28:31,985 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:28:31,985 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:28:31,985 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:28:31,985 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:28:31,985 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:28:31,985 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:28:31,985 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:28:32,484 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:28:32,484 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:28:32,484 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:28:32,484 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:28:32,484 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:28:32,484 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:28:32,484 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:28:32,484 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:28:32,484 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:28:32,484 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:28:32,484 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:28:32,484 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:28:32,484 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:28:32,484 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:28:32,484 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:28:32,484 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:28:32,484 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:28:33,087 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:28:33,087 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:28:33,087 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:28:33,087 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:28:33,087 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:28:33,087 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:28:33,087 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:28:33,087 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:28:33,087 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:28:33,087 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:28:33,087 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:28:33,087 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:28:33,087 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:28:33,087 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:28:33,087 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:28:33,087 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:28:33,087 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 10:54:00,537 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:00,537 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:00,537 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:00,537 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:00,537 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:00,537 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:00,537 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:00,537 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:00,537 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:00,537 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:00,537 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:00,537 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:00,537 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:00,537 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:00,537 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:00,537 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:00,537 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:00,537 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:19,686 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:19,686 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:19,686 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:19,686 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:19,686 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:19,686 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:19,686 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:19,686 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:19,686 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:19,686 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:19,686 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:19,686 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:19,686 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:19,686 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:19,686 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:19,686 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:19,686 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:19,686 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:19,686 : INFO : file_log_report : Showing data information
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,137 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:30,242 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:33,136 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,192 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:34,932 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:54:35,546 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:56:40,839 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:57:00,836 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:17,875 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 10:59:34,343 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:30,544 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:10:53,569 : INFO : file_log_report : Showing data information
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,862 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:18,921 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,507 : INFO : file_log_report : Outlier for Customers is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:23,576 : INFO : file_log_report : Outlier for Sales is fixed
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:35,270 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,236 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:36,916 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:37,448 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
