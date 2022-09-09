@@ -1,0 +1,4 @@
+outs:
+- md5: bc32d868b76a0cfac24ff2515bd1390f
+  size: 480288940
+  path: train_store_label.csv
