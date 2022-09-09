@@ -156,3 +156,13 @@ ValueError: cannot insert Season, already exists
 2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
 2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
 2022-09-09 11:11:47,056 : INFO : file_log_report : Successfully Added Season Column
+2022-09-10 01:08:28,284 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-10 01:08:28,284 : INFO : file_log_report : Successfully Added WeekDay Column to the DataFrame
+2022-09-10 01:08:29,159 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-10 01:08:29,159 : INFO : file_log_report : Successfully Added DaysToHoliday Column
+2022-09-10 01:08:29,851 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-10 01:08:29,851 : INFO : file_log_report : Successfully Added DaysAfterHoliday Column
+2022-09-10 01:08:30,321 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-10 01:08:30,321 : INFO : file_log_report : Successfully Added MonthTiming Column
+2022-09-10 01:08:31,805 : INFO : file_log_report : Successfully Added Season Column
+2022-09-10 01:08:31,805 : INFO : file_log_report : Successfully Added Season Column
