@@ -5,9 +5,9 @@
 **Data fields**
  
 Most of the fields are self-explanatory. The following are descriptions for those that aren't.
-  - **Id **- an Id that represents a (Store, Date) duple within the test set
+   - **Id **- an Id that represents a (Store, Date) duple within the test set
    - **Store -** a unique Id for each store
-   -** Sales** - the turnover for any given day (this is what you are predicting)
+   - ** Sales** - the turnover for any given day (this is what you are predicting)
    - **Customers **- the number of customers on a given day
    - **Open **- an indicator for whether the store was open: 0 = closed, 1 = open
    - **StateHoliday **- indicates a state holiday. Normally all stores, with few exceptions, are closed on state holidays. Note that all schools are closed on public holidays and weekends. a = public holiday, b = Easter holiday, c = Christmas, 0 = None
@@ -24,28 +24,28 @@ Most of the fields are self-explanatory. The following are descriptions for thos
 **Project Structure**
 - **images:**
  - images/ the folder where all snapshot for the project are stored.
-- logs:
+- **logs:/**
  - logs/ the folder where script logs are stored.
-**- mlruns:**
+- **mlruns:**
  - mlruns/0/ the folder that contain auto generated mlflow runs.
-**- data:**
+- **data:**
  - .dvc the folder where the dataset versioned csv files are stored.
 - **.dvc:**
-- .dvc/: the folder where dvc is configured for data version control.
-- .github:
+ - .dvc/: the folder where dvc is configured for data version control.
+- **.github:**
  - .github/: the folder where github actions and CML workflow is integrated.
--** .vscode:**
+- **.vscode:**
  - .vscode/: the folder where local path fix are stored.
--** models:**
+- **models:**
  - 09-009-2022-00-23-23-53.91%.pkl: the folder where model pickle files are stored.
 - **notebooks:**
    - notebook fiel used to preprocessing and modeling notebook
-**- src:**
+- **src:**
  - a python script for cleaning pandas dataframes.
 - **tests:**
  - **tests/: **the folder containing unit tests for the scripts.
 - requirements.txt: a text file lsiting the projet's dependancies.
--** README.md:** Markdown text with a brief explanation of the project and the repository structure.
+- **README.md:** Markdown text with a brief explanation of the project and the repository structure.
 - **Dockerfile:** build users can create an automated build that executes several command-line instructions in a container.
  ** Installation guide**
  The project covers the following:
