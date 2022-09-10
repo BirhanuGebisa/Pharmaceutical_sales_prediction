@@ -3,3 +3,155 @@
 2022-09-10 01:07:36,046 — FileHandler — INFO — DVC: CSV file read with path: data/store.csv | version: vs | from: ../
 2022-09-10 01:08:06,736 — FileHandler — INFO — DVC: CSV file read with path: data/train_store.csv | version: vts1 | from: ../
 2022-09-10 01:08:07,311 — FileHandler — INFO — DVC: CSV file read with path: data/test_store.csv | version: vts2 | from: ../
+2022-09-10 09:06:21,811 — FileHandler — ERROR — DVC data getter raised an exception
+Traceback (most recent call last):
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/scm.py", line 159, in resolve_rev
+    return scm.resolve_rev(fix_exp_head(scm, rev))
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/scmrepo/git/__init__.py", line 289, in _backend_func
+    result = func(*args, **kwargs)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/scmrepo/git/backend/pygit2.py", line 303, in resolve_rev
+    raise RevError(f"unknown Git revision '{rev}'")
+scmrepo.exceptions.RevError: unknown Git revision 'vsl2'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sucess/10-academy/week-3/Pharmaceutical_sales_prediction/notebooks/../src/file_handler.py", line 23, in dvc_get_data
+    content = dvc.api.read(path=path,
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/api/data.py", line 210, in read
+    with open(
+  File "/home/sucess/anaconda3/lib/python3.10/contextlib.py", line 135, in __enter__
+    return next(self.gen)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/api/data.py", line 197, in _open
+    with Repo.open(repo, rev=rev, subrepos=True, uninitialized=True) as _repo:
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/repo/__init__.py", line 250, in open
+    return Repo(url, *args, **kwargs)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/repo/__init__.py", line 180, in __init__
+    self.root_dir, self.dvc_dir, self.tmp_dir = self._get_repo_dirs(
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/repo/__init__.py", line 99, in _get_repo_dirs
+    root_dir = self.find_root(root_dir, fs)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/repo/__init__.py", line 334, in find_root
+    root_dir = fs.path.realpath(root)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/funcy/objects.py", line 28, in __get__
+    res = instance.__dict__[self.fget.__name__] = self.fget(instance)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/fs/git.py", line 50, in path
+    return self.fs.path
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/funcy/objects.py", line 50, in __get__
+    return prop.__get__(instance, type)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/funcy/objects.py", line 28, in __get__
+    res = instance.__dict__[self.fget.__name__] = self.fget(instance)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/fs/git.py", line 46, in fs
+    return FsspecGitFileSystem(**self.fs_args)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/fsspec/spec.py", line 76, in __call__
+    obj = super().__call__(*args, **kwargs)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/scmrepo/fs.py", line 174, in __init__
+    resolved = resolver(scm, rev or "HEAD")
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/scm.py", line 176, in resolve_rev
+    raise RevError(str(exc))
+dvc.scm.RevError: unknown Git revision 'vsl2'
+2022-09-10 09:09:19,834 — FileHandler — ERROR — DVC data getter raised an exception
+Traceback (most recent call last):
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc_objects/fs/__init__.py", line 97, in __getitem__
+    return _import_class(entry["class"])
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc_objects/fs/__init__.py", line 86, in _import_class
+    module = importlib.import_module(mod)
+  File "/home/sucess/anaconda3/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'dvc_gdrive'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/sucess/10-academy/week-3/Pharmaceutical_sales_prediction/notebooks/../src/file_handler.py", line 23, in dvc_get_data
+    content = dvc.api.read(path=path,
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/api/data.py", line 210, in read
+    with open(
+  File "/home/sucess/anaconda3/lib/python3.10/contextlib.py", line 135, in __enter__
+    return next(self.gen)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/api/data.py", line 198, in _open
+    with _repo.open_by_relpath(
+  File "/home/sucess/anaconda3/lib/python3.10/contextlib.py", line 135, in __enter__
+    return next(self.gen)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/repo/__init__.py", line 559, in open_by_relpath
+    with fs.open(
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc_objects/fs/base.py", line 197, in open
+    return self.fs.open(path, mode=mode, **kwargs)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/funcy/objects.py", line 50, in __get__
+    return prop.__get__(instance, type)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/funcy/objects.py", line 28, in __get__
+    res = instance.__dict__[self.fget.__name__] = self.fget(instance)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/fs/dvc.py", line 453, in fs
+    return _DvcFileSystem(**self.fs_args)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/fsspec/spec.py", line 76, in __call__
+    obj = super().__call__(*args, **kwargs)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/fs/dvc.py", line 147, in __init__
+    self._datafss[key] = DataFileSystem(index=repo.index.data["repo"])
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/funcy/objects.py", line 28, in __get__
+    res = instance.__dict__[self.fget.__name__] = self.fget(instance)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/repo/index.py", line 197, in data
+    remote = self.repo.cloud.get_remote_odb(out.remote)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/data_cloud.py", line 41, in get_remote_odb
+    return self._init_odb(name)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/data_cloud.py", line 62, in _init_odb
+    cls, config, fs_path = get_cloud_fs(self.repo, name=name)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/fs/__init__.py", line 112, in get_cloud_fs
+    cls = get_fs_cls(remote_conf)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc_objects/fs/__init__.py", line 120, in get_fs_cls
+    return registry.get(scheme)
+  File "/home/sucess/anaconda3/lib/python3.10/_collections_abc.py", line 819, in get
+    return self[key]
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc_objects/fs/__init__.py", line 99, in __getitem__
+    raise ImportError(entry["err"]) from exc
+ImportError: gdrive is supported, but requires 'dvc-gdrive' to be installed
+2022-09-10 09:10:18,010 — FileHandler — ERROR — DVC data getter raised an exception
+Traceback (most recent call last):
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc_data/index.py", line 133, in info
+    entry = self[key]
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc_data/index.py", line 61, in __getitem__
+    return self._trie[key]
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/pygtrie.py", line 937, in __getitem__
+    node, _ = self._get_node(key_or_slice)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/pygtrie.py", line 630, in _get_node
+    raise KeyError(key)
+KeyError: ('data', 'train_store_unlabel.csv')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/repo/__init__.py", line 559, in open_by_relpath
+    with fs.open(
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc_objects/fs/base.py", line 197, in open
+    return self.fs.open(path, mode=mode, **kwargs)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/fs/dvc.py", line 328, in open
+    return dvc_fs.open(dvc_path, mode=mode, encoding=encoding, **kwargs)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc_objects/fs/base.py", line 197, in open
+    return self.fs.open(path, mode=mode, **kwargs)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc_data/fs.py", line 70, in open
+    fs, fspath = self._get_fs_path(path, **kwargs)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc_data/fs.py", line 46, in _get_fs_path
+    info = self.info(path)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc_data/fs.py", line 109, in info
+    info = self.index.info(key)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc_data/index.py", line 156, in info
+    raise FileNotFoundError from exc
+FileNotFoundError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/sucess/10-academy/week-3/Pharmaceutical_sales_prediction/notebooks/../src/file_handler.py", line 23, in dvc_get_data
+    content = dvc.api.read(path=path,
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/api/data.py", line 210, in read
+    with open(
+  File "/home/sucess/anaconda3/lib/python3.10/contextlib.py", line 135, in __enter__
+    return next(self.gen)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/api/data.py", line 198, in _open
+    with _repo.open_by_relpath(
+  File "/home/sucess/anaconda3/lib/python3.10/contextlib.py", line 135, in __enter__
+    return next(self.gen)
+  File "/home/sucess/anaconda3/lib/python3.10/site-packages/dvc/repo/__init__.py", line 566, in open_by_relpath
+    raise FileMissingError(path) from exc
+dvc.exceptions.FileMissingError: Can't find 'data/train_store_unlabel.csv' neither locally nor on remote
