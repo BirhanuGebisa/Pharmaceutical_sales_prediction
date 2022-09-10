@@ -15,12 +15,12 @@ import io
 
 path_parent = os.path.dirname(os.getcwd())
 os.chdir(path_parent)
-sys.path.insert(0, path_parent+'/scripts')
+sys.path.insert(0, path_parent+'/src')
 
 
 path="data/train_store.csv"
 repo="/"
-version="v4"
+version="vts1"
 
 data_url = dvc.api.read(
     path=path,
@@ -28,14 +28,7 @@ data_url = dvc.api.read(
     rev=version,
 )
 
-mlflow.set_experiment('ab_logistic')
-
-# def eval_metrics(actual, pred):
-#     rmse = np.sqrt(mean_squared_error(actual, pred))
-#     mae = mean_absolute_error(actual, pred)
-#     r2 = r2_score(actual, pred)
-    
-#     return rmse, mae, r2
+mlflow.set_experiment('random_forest')
 
 def main():
     # prepare example dataset
@@ -48,15 +41,20 @@ def main():
     mlflow.log_param('input_rows', data.shape[0])
     mlflow.log_param('input_colums', data.shape[1])
     
-    data.drop(columns=['Unnamed: 0', 'date', 'auction_id', 'yes', 'no'], inplace=True)
+  
     
-    train, test = train_test_split(data)
-    
-    x_train = train.drop(['response'], axis=1)
-    y_train = train[['response']]
-    X_test = test.drop(['response'], axis=1)
-    y_test = test[['response']]
-    
+    data.set_index('Year', inplace=True)
+
+    data.drop(['StateHoliday'], axis=1, inplace=True)
+
+    data = data[data['Open'] == 1]
+    data = data[data['Sales'] > 0.0]
+
+    X = data.drop('Sales', axis=1)
+    y = data['Sales']
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, test_size=0.2, random_state=123)
+
 
     lr = RandomForestRegressor()
     
