@@ -56,4 +56,4 @@ Most of the fields are self-explanatory. The following are descriptions for thos
       - Machine Learning modelning
       - Deep Learning (LSTM) modeling
   **To install**
-  git clone https://github.com/BirhanuGebisa/Pharmaceutical_sales_prediction.git
+ - git clone https://github.com/BirhanuGebisa/Pharmaceutical_sales_prediction.git
