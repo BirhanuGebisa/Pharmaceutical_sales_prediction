@@ -1,0 +1,4 @@
+artifact_location: file:///home/sucess/10-academy/week-3/Pharmaceutical_sales_prediction/train-model/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: random_forest
