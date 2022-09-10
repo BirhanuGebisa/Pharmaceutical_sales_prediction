@@ -1160,3 +1160,84 @@ ValueError: cannot insert Season, already exists
 2022-09-10 01:08:31,805 : INFO : file_log_report : Successfully Added Season Column
 2022-09-10 01:08:31,805 : INFO : file_log_report : Successfully Added Season Column
 2022-09-10 01:08:31,805 : INFO : file_log_report : Successfully Added Season Column
+2022-09-10 14:40:35,608 : INFO : file_log_report : Colums with missing values: ['floats']
+2022-09-10 14:40:35,608 : INFO : file_log_report : Colums with missing values: ['floats']
+2022-09-10 14:40:35,645 : INFO : file_log_report : Converted to numbers
+2022-09-10 14:40:35,645 : INFO : file_log_report : Converted to numbers
+2022-09-10 14:40:35,645 : INFO : file_log_report : Converted to numbers
+2022-09-10 14:40:35,646 : INFO : file_log_report : Showing coloumn names
+2022-09-10 14:40:35,646 : INFO : file_log_report : Showing coloumn names
+2022-09-10 14:40:35,646 : INFO : file_log_report : Showing coloumn names
+2022-09-10 14:40:35,646 : INFO : file_log_report : Showing coloumn names
+2022-09-10 14:40:35,666 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-10 14:40:35,666 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-10 14:40:35,666 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-10 14:40:35,666 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-10 14:40:35,666 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-10 14:40:35,668 : INFO : file_log_report : Showing data information
+2022-09-10 14:40:35,668 : INFO : file_log_report : Showing data information
+2022-09-10 14:40:35,668 : INFO : file_log_report : Showing data information
+2022-09-10 14:40:35,668 : INFO : file_log_report : Showing data information
+2022-09-10 14:40:35,668 : INFO : file_log_report : Showing data information
+2022-09-10 14:40:35,668 : INFO : file_log_report : Showing data information
+2022-09-10 14:40:35,693 : INFO : file_log_report : Showing datatypes
+2022-09-10 14:40:35,693 : INFO : file_log_report : Showing datatypes
+2022-09-10 14:40:35,693 : INFO : file_log_report : Showing datatypes
+2022-09-10 14:40:35,693 : INFO : file_log_report : Showing datatypes
+2022-09-10 14:40:35,693 : INFO : file_log_report : Showing datatypes
+2022-09-10 14:40:35,693 : INFO : file_log_report : Showing datatypes
+2022-09-10 14:40:35,693 : INFO : file_log_report : Showing datatypes
+2022-09-10 14:42:30,738 : INFO : file_log_report : Colums with missing values: ['floats']
+2022-09-10 14:42:30,738 : INFO : file_log_report : Colums with missing values: ['floats']
+2022-09-10 14:42:30,741 : INFO : file_log_report : Converted to numbers
+2022-09-10 14:42:30,741 : INFO : file_log_report : Converted to numbers
+2022-09-10 14:42:30,741 : INFO : file_log_report : Converted to numbers
+2022-09-10 14:42:30,742 : INFO : file_log_report : Showing coloumn names
+2022-09-10 14:42:30,742 : INFO : file_log_report : Showing coloumn names
+2022-09-10 14:42:30,742 : INFO : file_log_report : Showing coloumn names
+2022-09-10 14:42:30,742 : INFO : file_log_report : Showing coloumn names
+2022-09-10 14:42:30,745 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-10 14:42:30,745 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-10 14:42:30,745 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-10 14:42:30,745 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-10 14:42:30,745 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-10 14:42:30,747 : INFO : file_log_report : Showing data information
+2022-09-10 14:42:30,747 : INFO : file_log_report : Showing data information
+2022-09-10 14:42:30,747 : INFO : file_log_report : Showing data information
+2022-09-10 14:42:30,747 : INFO : file_log_report : Showing data information
+2022-09-10 14:42:30,747 : INFO : file_log_report : Showing data information
+2022-09-10 14:42:30,747 : INFO : file_log_report : Showing data information
+2022-09-10 14:42:30,775 : INFO : file_log_report : Showing datatypes
+2022-09-10 14:42:30,775 : INFO : file_log_report : Showing datatypes
+2022-09-10 14:42:30,775 : INFO : file_log_report : Showing datatypes
+2022-09-10 14:42:30,775 : INFO : file_log_report : Showing datatypes
+2022-09-10 14:42:30,775 : INFO : file_log_report : Showing datatypes
+2022-09-10 14:42:30,775 : INFO : file_log_report : Showing datatypes
+2022-09-10 14:42:30,775 : INFO : file_log_report : Showing datatypes
+2022-09-10 15:15:29,426 : INFO : file_log_report : Colums with missing values: ['floats']
+2022-09-10 15:15:29,426 : INFO : file_log_report : Colums with missing values: ['floats']
+2022-09-10 15:15:29,450 : INFO : file_log_report : Converted to numbers
+2022-09-10 15:15:29,450 : INFO : file_log_report : Converted to numbers
+2022-09-10 15:15:29,450 : INFO : file_log_report : Converted to numbers
+2022-09-10 15:15:29,452 : INFO : file_log_report : Showing coloumn names
+2022-09-10 15:15:29,452 : INFO : file_log_report : Showing coloumn names
+2022-09-10 15:15:29,452 : INFO : file_log_report : Showing coloumn names
+2022-09-10 15:15:29,452 : INFO : file_log_report : Showing coloumn names
+2022-09-10 15:15:29,455 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-10 15:15:29,455 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-10 15:15:29,455 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-10 15:15:29,455 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-10 15:15:29,455 : INFO : file_log_report : Dropped duplicates: Int64Index([], dtype='int64')
+2022-09-10 15:15:29,457 : INFO : file_log_report : Showing data information
+2022-09-10 15:15:29,457 : INFO : file_log_report : Showing data information
+2022-09-10 15:15:29,457 : INFO : file_log_report : Showing data information
+2022-09-10 15:15:29,457 : INFO : file_log_report : Showing data information
+2022-09-10 15:15:29,457 : INFO : file_log_report : Showing data information
+2022-09-10 15:15:29,457 : INFO : file_log_report : Showing data information
+2022-09-10 15:15:29,483 : INFO : file_log_report : Showing datatypes
+2022-09-10 15:15:29,483 : INFO : file_log_report : Showing datatypes
+2022-09-10 15:15:29,483 : INFO : file_log_report : Showing datatypes
+2022-09-10 15:15:29,483 : INFO : file_log_report : Showing datatypes
+2022-09-10 15:15:29,483 : INFO : file_log_report : Showing datatypes
+2022-09-10 15:15:29,483 : INFO : file_log_report : Showing datatypes
+2022-09-10 15:15:29,483 : INFO : file_log_report : Showing datatypes
